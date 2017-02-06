@@ -6,13 +6,14 @@ Below you'll find a high-level overview of your itinerary for the next twelve we
 
 ##Goals:
 
-We've set five goals which we'll work with you to achieve during the twelve week programme:
+We've set six goals which we'll work with you to achieve during the twelve week programme:
 
 1. Gain a strong grounding in the skills required to become a modern software engineer. 
 2. Ship a moderately complex greenfield application using the methods we've introduced.
 3. Contribute improvements to live customer applications.
 4. Take an active part in team retrospectives and showcases.
 5. Provide first line support to our customers.
+6. Billable on completion
 
 ##Programme:
 
@@ -29,7 +30,8 @@ We've set five goals which we'll work with you to achieve during the twelve week
 ###Week 11 - Devops
 ###Week 12 - Greenfield Project
 
+[Costs](https://docs.google.com/a/madetech.com/spreadsheets/d/1fc3Z_4iDUnPrxh3x8BBMmyHGfq-E1WAcVlzKluUV0HY/edit?usp=sharing)
 
-#####Other topics
+####Other topics
 ###Week 12 - Open Source / Blogging
 ###Week 4 - Unix Tooling
