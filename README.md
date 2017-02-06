@@ -20,15 +20,16 @@ We've set five goals which we'll work with you to achieve during the twelve week
 ###[Week 2 - Test-Driven Development](learn/01_tdd.md)
 ###Week 3 - Continuous Delivery
 ###Week 4 - Agile
-###Week 4 - Unix Tooling
 ###Week 5 - Join dedicated project team
 ###Week 6 - Join dedicated project team
-###Week 7 - Frontend (SASS, JS)
-###Week 8 - Showcases
+###Week 7 - Frontend (React, SASS, JS etc)
+###Week 8 - Greenfield Project
 ###Week 9 - Join support team
 ###Week 10 - Join support team
 ###Week 11 - Devops
-###Week 12 - Showcase
+###Week 12 - Greenfield Project
+
+
+#####Other topics
 ###Week 12 - Open Source / Blogging
-
-
+###Week 4 - Unix Tooling
