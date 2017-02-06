@@ -6,16 +6,15 @@ Below you'll find a high-level overview of your itinerary for the next twelve we
 
 ##Objectives:
 
-We've set some objectives which we'll be supporting you to achieve during the twelve week programme:
+We've set five key objectives which we'll work with you to achieve during the twelve week programme:
 
-* Developed a strong grounding in the topics required to become a modern software engineer. 
-* Shipped a moderately complex greenfield application using the methods we've taught.
-* Contributed code refactoring and improvements to live customer applications.
-* Taken an active part in retrospectives and showcases.
-* Been able to provide first line customer support and communications.
-* Contributed back to the Made Tech Academy to make it better for next cohort.
+1. Gain a strong grounding in the topics required to become a modern software engineer. 
+2. Ship a moderately complex greenfield application using the methods we've introduced.
+3. Contribute code refactoring and improvements to live customer applications.
+4. Take an active part in team retrospectives and showcases.
+5. Provide first line support to our customers.
 
-##Learning Programme:
+##Programme:
 
 ###[Week 1 - Introduction](learn/00_introduction.md)
 ###[Week 2 - Test-Driven Development](learn/01_tdd.md)
@@ -30,6 +29,5 @@ We've set some objectives which we'll be supporting you to achieve during the tw
 ###Week 10 - Join support team
 ###Week 11 - Devops
 ###Week 12 - Showcase
-
 
 
