@@ -13,7 +13,7 @@ We've set six goals which we'll work with you to achieve during the twelve week 
 3. Contribute improvements to live customer applications.
 4. Take an active part in team retrospectives and showcases.
 5. Provide first line support to our customers.
-6. Billable on completion [See ROI costs](https://docs.google.com/a/madetech.com/spreadsheets/d/1fc3Z_4iDUnPrxh3x8BBMmyHGfq-E1WAcVlzKluUV0HY/edit?usp=sharing)
+6. Billable on completion ([See ROI costs](https://docs.google.com/a/madetech.com/spreadsheets/d/1fc3Z_4iDUnPrxh3x8BBMmyHGfq-E1WAcVlzKluUV0HY/edit?usp=sharing)).
 
 ##Programme:
 
