@@ -4,9 +4,9 @@ Welcome to the Made Tech Academy.
 
 Below you'll find a high-level overview of your itinerary for the next twelve weeks. By the end of the programme, you should have a strong understanding of modern software delivery practices and you should be ready to join a Made Tech delivery pair as an engineer in training.
 
-##Objectives:
+##Goals:
 
-We've set five key objectives which we'll work with you to achieve during the twelve week programme:
+We've set five key goals which we'll work with you to achieve during the twelve week programme:
 
 1. Gain a strong grounding in the skills required to become a modern software engineer. 
 2. Ship a moderately complex greenfield application using the methods we've introduced.
