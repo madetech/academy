@@ -8,11 +8,12 @@ Below you'll find a high-level overview of your itinerary for the next twelve we
 
 We've set some objectives which we'll be supporting you to achieve during the twelve week programme:
 
-* Has a strong grounding in the topics required to become a modern software engineer. 
-* Has shipped a moderately complex greenfield application using the methods we've taught.
+* Developed a strong grounding in the topics required to become a modern software engineer. 
+* Shipped a moderately complex greenfield application using the methods we've taught.
 * Contributed code refactoring and improvements to live customer applications.
 * Taken an active part in retrospectives and showcases.
-* Taken on first line customer support / communications.
+* Been able to provide first line customer support and communications.
+* Contributed back to the Made Tech Academy to make it better for next cohort.
 
 ##Learning Programme:
 
