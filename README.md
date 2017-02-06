@@ -6,12 +6,13 @@ Below you'll find a high-level overview of your itinerary for the next twelve we
 
 ##Objectives:
 
-By the time you've completed our twelve week programme, you'll have:
+We've set some objectives which we'll be supporting you to achieve during the twelve week programme:
 
-* Developed a strong grounding in the topics required to become a modern software engineer. 
-* Have shipped a moderately complex application using the methods we've taught you.
-* Have contributed code improvements to live customer applications.
-* Are comfortable taking part in retrospectives and showcases.
+* Has a strong grounding in the topics required to become a modern software engineer. 
+* Has shipped a moderately complex greenfield application using the methods we've taught.
+* Contributed code refactoring and improvements to live customer applications.
+* Taken an active part in retrospectives and showcases.
+* Taken on first line customer support / communications.
 
 ##Learning Programme:
 
@@ -19,6 +20,7 @@ By the time you've completed our twelve week programme, you'll have:
 ###[Week 2 - Test-Driven Development](learn/01_tdd.md)
 ###Week 3 - Continuous Delivery
 ###Week 4 - Agile
+###Week 4 - Unix Tooling
 ###Week 5 - Join dedicated project team
 ###Week 6 - Join dedicated project team
 ###Week 7 - Frontend (SASS, JS)
