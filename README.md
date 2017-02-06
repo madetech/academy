@@ -2,9 +2,19 @@
 
 Welcome to the Made Tech Academy. 
 
-Below you'll find a high-level overview of your itinerary for the next twelve weeks. By the end of the programme, you should have a good understanding of our software delivery practices and be ready to join a delivery pair as an engineer in training.
+Below you'll find a high-level overview of your itinerary for the next twelve weeks. By the end of the programme, you should have a strong understanding of our software delivery practices and you should be ready to join a delivery pair as an engineer in training.
 
-Our expectation is that by the time you've completed our twelve week programme, you'll have a good grounding in the topics required to be a modern software engineer. 
+##Objectives:
+
+Our expectation is that by the time you've completed our twelve week programme, you'll have:
+
+* Developed a strong grounding in the topics required for you to become a modern software engineer. 
+* Have shipped a moderately complex application using the methods we've taught you.
+* Have contributed code improvements to customer applications.
+* Are comfortable taking part in retrospectives and showcases.
+* 
+
+##Learning Programme:
 
 ###[Week 1 - Introduction](learn/00_introduction.md)
 ###[Week 2 - Test-Driven Development](learn/01_tdd.md)
