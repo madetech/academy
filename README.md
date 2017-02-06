@@ -6,7 +6,7 @@ Below you'll find a high-level overview of your itinerary for the next twelve we
 
 ##Goals:
 
-We've set five key goals which we'll work with you to achieve during the twelve week programme:
+We've set five goals which we'll work with you to achieve during the twelve week programme:
 
 1. Gain a strong grounding in the skills required to become a modern software engineer. 
 2. Ship a moderately complex greenfield application using the methods we've introduced.
@@ -29,5 +29,6 @@ We've set five key goals which we'll work with you to achieve during the twelve 
 ###Week 10 - Join support team
 ###Week 11 - Devops
 ###Week 12 - Showcase
+###Week 12 - Open Source / Blogging
 
 
