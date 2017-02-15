@@ -1,8 +1,8 @@
 # Introduction
 
-Week Goal: Get excited about the programme and what you are going to learnt over the next 12 weeks. 
+Week Goal: Get excited about the programme and what you are going to learnt over the next 12 weeks.
 
-##Day 1: 
+##Day 1:
 * Welcome to the Made Tech Academy
 * Get your laptop setup
 * Meet your academy colleagues
@@ -13,7 +13,7 @@ Week Goal: Get excited about the programme and what you are going to learnt over
     - https://www.amazon.co.uk/gp/registry/wishlist/3HO0RB9YA1IF/ref=cm_wl_list_o_0?
 * Company lunch and drinks to get to know wider team
 
-##Day 2: 
+##Day 2:
 * Business introduction (support, delivery, bizops etc)
 * Introduction to continuous feedback
 * Overview of the systems that we typically use
@@ -23,13 +23,14 @@ Week Goal: Get excited about the programme and what you are going to learnt over
 * Introduction to the academy greenfield project
 * Agile planning for the academy greenfield project
 
-##Day 3: 
+##Day 3:
 * Join delivery teams for a day
 
-##Day 4: 
+##Day 4:
 * Just support team for a day
 
 ##Day 5:
 * Cut some code on the academy project and get it deployed to production
+* Prepare a showcase
 * Retrospective on your first week + action points for next week
 * Showcase at the end of the day to wider team

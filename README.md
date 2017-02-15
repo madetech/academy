@@ -1,6 +1,6 @@
 #Made Tech Academy
 
-Welcome to the Made Tech Academy. 
+Welcome to the Made Tech Academy.
 
 Below you'll find a high-level overview of your itinerary for the next twelve weeks. By the end of the programme, you should have a strong understanding of modern software delivery practices and you should be ready to join a Made Tech delivery pair as an engineer in training.
 
@@ -8,7 +8,7 @@ Below you'll find a high-level overview of your itinerary for the next twelve we
 
 We've set six goals which we'll work with you to achieve during the twelve week programme:
 
-1. Gain a strong grounding in the skills required to become a modern software engineer. 
+1. Gain a strong grounding in the skills required to become a modern software engineer.
 2. Ship a moderately complex greenfield application using the methods we've introduced.
 3. Contribute improvements to live customer applications.
 4. Take an active part in team retrospectives and showcases.
@@ -35,4 +35,4 @@ We've set six goals which we'll work with you to achieve during the twelve week 
 ##Potential topics
 ###Week XX - Blogging
 ###Week XX - Unix Tooling
-###Week XX - 
+###Week XX -
