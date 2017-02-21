@@ -2,7 +2,7 @@
 
 Week Goal: Provide support and maintenance to a number of live customer applications.
 
-### Days 1 throughs to 5:
+### Days 1 through to 5:
 * Join #teamTriage
 * Debug issues as they arise
 * Deal with live customer incidents

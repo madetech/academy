@@ -2,7 +2,7 @@
 
 Week Goal: Get involved in a live customer engagement by joining a dedicated project team
 
-### Days 1 throughs to 5:
+### Days 1 through to 5:
 * Work with delivery team for the week
 * Ad-hoc showcases to the customers
 * Ideally some co-location on site
