@@ -9,7 +9,7 @@ Below you'll find a high-level overview of your itinerary for the next twelve we
 We've set six goals which we'll work with you to achieve during the twelve week programme:
 
 1. Gain a strong grounding in the skills required to become a modern software engineer.
-2. Ship a moderately complex [greenfield application](application/brief.md) using the methods we've introduced.
+2. Ship a moderately complex [greenfield application](application/2017-greenfield-brief.md) using the methods we've introduced.
 3. Contribute improvements to live customer applications.
 4. Take an active part in agile team practices, such as standups, retrospectives and showcases.
 5. Provide first line support to customers.
