@@ -9,4 +9,7 @@
 * No manual tasks to be kept up-to-date
 
 **Capabilities:**
-* 
+* Authentication via Google Apps
+* Pull individual data from Continuous Feedback application
+* Pull company data from TBD
+* Automated refresh of data
