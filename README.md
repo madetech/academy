@@ -29,8 +29,8 @@ We've set six goals which we'll work with you to achieve during the twelve week 
 ### [Week 11 - Devops](learn/11_devops.md)
 ### [Week 12 - Greenfield Project](learn/_08_greenfield.md)
 
-## Bonus Rounds / Alternate Ideas:
-### [Week XX - Blogging](#)
-### [Week XX - Unix Tooling](#)
-### [Week XX - Commercial / Business](#)
-### [Week XX - Software Engineering](#)
+## Bonus Rounds:
+### [Week 00 - Blogging](#)
+### [Week 00 - Unix Tooling](#)
+### [Week 00 - Commercial / Business](#)
+### [Week 00 - Software Engineering](#)
