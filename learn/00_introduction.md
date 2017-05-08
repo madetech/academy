@@ -14,7 +14,6 @@
   - Rules - pomo/breaks/driving/navigating
   - Set expectation of 50% of time pairing
 - Work on greenfield
-- Drinks
 
 ## Day 2
 - Business intro
@@ -36,6 +35,7 @@
 
 ## Day 3
 - Greenfield
+- Drinks
 
 ## Day 4
 - Greenfield
