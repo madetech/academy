@@ -8,7 +8,9 @@ Week Goal: Get to grips with the basics of TDD, BDD and be able to write tests u
 
 ### Day 1:
 * Introduction to TDD practices (follow)
-* Afternoon code kata building out a thing using TDD
+* Roman numerals kata using TDD
+  * http://agilekatas.co.uk/katas/RomanNumerals-Kata
+* Plan upcoming week's work
 
 ### Day 2:
 * Cutting TDD'd code on the greenfield application
@@ -23,3 +25,4 @@ Week Goal: Get to grips with the basics of TDD, BDD and be able to write tests u
 * Code dojo making something fun
 * Showcase the greenfield application to the company
 * Retrospective on week + review action points + create more for next week
+* Comradro
