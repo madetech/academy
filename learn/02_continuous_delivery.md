@@ -8,20 +8,25 @@ Week Goal: To get our [greenfield application](./application/brief.md) into a Co
 * https://www.amazon.co.uk/d/Books/Field-Guide-Continuous-Delivery/1530121418/
 
 ### Day 1:
+* Plan upcoming week's work
 * Setup CI environment
 * Create build pipeline
-
-### Day 2:
 * Get build tasks running
 * Get deployment tasks running
 
+### Day 2:
+* Cutting code on the greenfield application
+  * Small incremental realeases
+  * Dark launches
+  * Feature toggles
+
 ### Day 3:
 * Cutting code on the greenfield application
-* Using continuous delivery techniques (feature toggles, dark launches etc)
+  * Identify a feature that benefits from being dark launched and do so
 
 ### Day 4:
 * Cutting code on the greenfield application
-* Using continuous delivery techniques (feature toggles, dark launches etc)
+  * Identify a feature that benefits from being feature flagged and do so
 
 ### Day 5:
 * Cutting code on the greenfield application
