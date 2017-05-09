@@ -24,16 +24,21 @@
   - Intro to showcasing
   - Intro to blogging
 - Intro to CF
+- PR workflow intro
+- Greenfield
+- Lunch
+  - With delivery team/ongoing-dev
+- Deploy change to live code base
+
+## Day 3
 - Systems overview
   - Github
   - Circle/Jenkins
   - AWS
   - Ansible/Terraform
-- PR workflow intro
+- Greenfield
 - Lunch
-- Deploy change to live code base
-
-## Day 3
+  - With delivery team/ongoing-dev
 - Greenfield
 - Drinks
 
