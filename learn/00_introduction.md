@@ -14,6 +14,7 @@
   - Rules - pomo/breaks/driving/navigating
   - Set expectation of 50% of time pairing
 - Work on greenfield
+- Deploy Greenfield to prod
 
 ## Day 2
 - Business intro
@@ -31,7 +32,6 @@
 - PR workflow intro
 - Lunch
 - Deploy change to live code base
-  - More time on greenfield
 
 ## Day 3
 - Greenfield
@@ -39,7 +39,6 @@
 
 ## Day 4
 - Greenfield
-- Deploy Greenfield to prod
 - Retro
 
 ## Day 5
