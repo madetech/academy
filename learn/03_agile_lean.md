@@ -31,4 +31,3 @@ Week Goal: To deepen your understanding of agile and lean principles and how the
 * Cutting code on the greenfield application
 * Retrospective (review action points, create improvements for next week)
 * Showcase to the entire company
-* Comradro

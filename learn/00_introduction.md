@@ -1,5 +1,7 @@
 # Introduction
 
+Week Goal: Get excited about the programme and what you are going to learnt over the next 12 weeks.
+
 ## Day 1
 - Welcome
   - Overview of curriculum
