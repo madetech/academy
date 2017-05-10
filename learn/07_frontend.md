@@ -23,4 +23,3 @@ Week Goal: Have a strongly architected frontend for your greenfield application.
 ### Day 5:
 * Frontend architecture and styling
 * Retrospective (review action points, create improvements for next week)
-* Showcase autoscaling infrastructure to the entire company
