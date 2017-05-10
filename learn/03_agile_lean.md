@@ -41,7 +41,7 @@ Week Goal: To deepen your understanding of agile and lean principles and how the
   * http://www.leansimulations.org/2010/11/penny-game.html
 * Ceremonies
   * Cover different ceremony types
-    * Sprint planning
+    * Planning
     * Standups
     * Iteration reviews
     * Retros
