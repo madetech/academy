@@ -9,7 +9,10 @@ Week Goal: Have a strongly architected frontend for your greenfield application.
 
 ### Day 1:
 * BEM
-* React
+* React, Next.js, Vue
+  * Discuss and compare
+  * Build some small apps
+  * Select framework for using in greenfield application
 
 ### Day 2:
 * Frontend architecture and styling
@@ -22,4 +25,5 @@ Week Goal: Have a strongly architected frontend for your greenfield application.
 
 ### Day 5:
 * Frontend architecture and styling
+* Showcase frontend improvements to the business
 * Retrospective (review action points, create improvements for next week)
