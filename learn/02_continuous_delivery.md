@@ -16,7 +16,7 @@ Week Goal: To get our [greenfield application](./application/brief.md) into a Co
 
 ### Day 2:
 * Cutting code on the greenfield application
-  * Small incremental realeases
+  * Small incremental releases
   * Dark launches
   * Feature toggles
 
