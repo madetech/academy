@@ -27,7 +27,7 @@ We've set six goals which we'll work with you to achieve during the twelve week 
 ### [Week 9 - Join support team](learn/09_support.md)
 ### [Week 10 - Join support team](learn/09_support.md)
 ### [Week 11 - Devops](learn/11_devops.md)
-### [Week 12 - Greenfield Project](learn/_08_greenfield.md)
+### [Week 12 - Greenfield Project](learn/08_greenfield.md)
 
 ## Bonus Rounds:
 ### [Week 00 - Blogging](#)
