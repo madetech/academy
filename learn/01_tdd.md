@@ -11,14 +11,18 @@ Week Goal: Get to grips with the basics of TDD, BDD and be able to write tests u
 * Roman numerals kata using TDD
   * http://agilekatas.co.uk/katas/RomanNumerals-Kata
 * Plan upcoming week's work
+  * Make sure learning time for katas is taken into account
 
 ### Day 2:
+* Kata to start day
 * Cutting TDD'd code on the greenfield application
 
 ### Day 3:
+* Kata to start day
 * Cutting TDD'd code on the greenfield application
 
 ### Day 4:
+* Kata to start day
 * Cutting TDD'd code on the greenfield application
 
 ### Day 5:
