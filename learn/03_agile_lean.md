@@ -14,13 +14,6 @@ Week Goal: To deepen your understanding of agile and lean principles and how the
   * Planning poker
   * Dot voting
   * T-Shirt sizes
-* Retrospectives
-  * Safety
-  * Facilitation
-  * Objectives
-  * Methods
-  * Games/workshops
-  * Action points
 * Plan upcoming week using one of the techniques covered
 * Greenfield
 
@@ -53,6 +46,13 @@ Week Goal: To deepen your understanding of agile and lean principles and how the
 
 ### Day 5:
 * Greenfield
+* Retrospectives
+  * Safety
+  * Facilitation
+  * Objectives
+  * Methods
+  * Games/workshops
+  * Action points
 * Retrospective
   * Academy member to facilitate
 * Showcase to the entire company

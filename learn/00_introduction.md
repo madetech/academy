@@ -15,8 +15,7 @@ Week Goal: Get excited about the programme and what you are going to learnt over
 - Pair programming intro
   - Rules - pomo/breaks/driving/navigating
   - Set expectation of 50% of time pairing
-- Work on greenfield
-- Deploy Greenfield to prod
+- Work on kata together
 
 ## Day 2
 - Business intro
@@ -29,8 +28,7 @@ Week Goal: Get excited about the programme and what you are going to learnt over
 - PR workflow intro
 - Greenfield
 - Lunch
-  - With delivery team/ongoing-dev
-- Deploy change to live code base
+- Deploy Greenfield to prod
 
 ## Day 3
 - Systems overview
@@ -41,17 +39,15 @@ Week Goal: Get excited about the programme and what you are going to learnt over
 - Greenfield
 - Lunch
   - With delivery team/ongoing-dev
-- Greenfield
-- Drinks
+- Kata
 
 ## Day 4
 - Greenfield
 - Retro
 
 ## Day 5
-- Ryan in Brighton
-  - Arrange someone else to be PO for day
 - Work on Greenfield/blogging
 - Prep showcase
 - Lunch
 - Showcase to business
+- Drinks
