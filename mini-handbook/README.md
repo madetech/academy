@@ -1,4 +1,4 @@
-# Made Tech Handbook
+# Academy Mini Handbook
 
 This is the Academy Mini Handbook, please refer to the [Made Tech Handbook](https://github.com/madetech/handbook) for all other information.
 
