@@ -12,16 +12,36 @@ Throughout the Academy, we will be supporting you to help you meet the expectati
 * For the final 5 weeks we will check that you're working towards [Software Engineer 1 SFIA Role Guidance](https://github.com/madetech/handbook/blob/master/roles/sfia/software_engineer_1.md)
 * We will be confirming that you are aligned with the [Made Tech Core Values](https://github.com/madetech/handbook/blob/master/company/about.md)
 
-## Weeks 1 - 3
+## Weeks 1 - 2: Welcome and Understanding
 
-* For the first 3 weeks, we will be discussing your learning style and ensuring that you're settling in OK. 
-* We will work together to set goals and objectives 
+For the first 2 weeks, we will be discussing your learning style and ensuring that you're settling in OK. 
+* How are you finding the Academy
+* Discuss your learning Style
+* Discuss how you like to receive feedback
+* Are they engaging on the Academy
+* How are they settling i
+ 
 
-# Weeks 4 - 7
+## Week 3: Goal Setting
+
+We will work together to set goals and objectives
+* Autonomy: Readily asks for help to aid progression
+* Autonomy: Frequently requests and addresses feedback regularly
+* Influence: Actively contributes during pairing and mobbing
+* Influence: Shares opinions on approach to tasks and concepts
+* Complexity: Regularly engages in self learning and research to build on technical skills delivered by the academy
+* Complexity: Seeks out Made Tech colleagues to support in learning and development
+* Knowledge: Prioritises and engages in self-learning to learn new technical skills and concencepts
+* Knowledge: Is learning new skills, knowledge and behaviours suitable for Made Tech deliveries
+* Business Skills: Ability to communicate and understand projects and delivery at Made Tech
+* Business Skills: Prepares and delivers showcases and presentations
+
+
+## Weeks 4 - 7: Academy Engineer SFIA
 
 * We will refine your goals and support you in any areas you need additional support
 * In week 7, we will start setting some goals and objectives for Software Engineer 1
 
-# Weeks 8 - 12
+# Weeks 8 - 12: Software Engineer 1 SFIA
 
 * We will refine your goals and support you in any areas you need additional support 
