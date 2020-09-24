@@ -18,13 +18,12 @@ For the first 2 weeks, we will be discussing your learning style and ensuring th
 * How are you finding the Academy
 * Discuss your learning Style
 * Discuss how you like to receive feedback
-* Are they engaging on the Academy
-* How are they settling i
- 
+* Are you engaging on the Academy
 
-## Week 3: Goal Setting
+## Week 3: Academy Engineer Goal Setting
 
 We will work together to set goals and objectives
+
 * Autonomy: Readily asks for help to aid progression
 * Autonomy: Frequently requests and addresses feedback regularly
 * Influence: Actively contributes during pairing and mobbing
@@ -42,6 +41,8 @@ We will work together to set goals and objectives
 * We will refine your goals and support you in any areas you need additional support
 * In week 7, we will start setting some goals and objectives for Software Engineer 1
 
-# Weeks 8 - 12: Software Engineer 1 SFIA
+## Week 7: Software Engineer 1 Goal Setting
+
+## Weeks 8 - 12: Software Engineer 1 SFIA
 
 * We will refine your goals and support you in any areas you need additional support 
