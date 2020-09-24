@@ -31,7 +31,7 @@ We will work together to set goals and objectives
 * Influence: Shares opinions on approach to tasks and concepts
 * Complexity: Regularly engages in self learning and research to build on technical skills delivered by the academy
 * Complexity: Seeks out Made Tech colleagues to support in learning and development
-* Knowledge: Prioritises and engages in self-learning to learn new technical skills and concencepts
+* Knowledge: Prioritises and engages in self-learning to learn new technical skills and concepts
 * Knowledge: Is learning new skills, knowledge and behaviours suitable for Made Tech deliveries
 * Business Skills: Ability to communicate and understand projects and delivery at Made Tech
 * Business Skills: Prepares and delivers showcases and presentations
