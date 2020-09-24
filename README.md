@@ -4,7 +4,7 @@ Welcome to the Made Tech Academy.
 
 Below you'll find a high-level overview of your itinerary for the next twelve weeks. By the end of the programme, you should have a strong understanding of modern software delivery practices and you should be ready to join a Made Tech delivery pair as an engineer in training.
 
-## Goals:
+## Goals
 
 We've set six goals which we'll work with you to achieve during the twelve week programme:
 
@@ -14,12 +14,14 @@ We've set six goals which we'll work with you to achieve during the twelve week 
 4. Billable on completion 
 
 ## Throughout
+
 Throughout the Academy, you will be constantly learning the following techniques:
 - Test Driven Development (TDD)
 - Mobbing
 - Pair Programming
 
-## Programme:
+## Programme
+
 ### [Week 1](curriculum/week_01.md)
 ### [Week 2](curriculum/week_02.md)
 ### [Week 3](curriculum/week_03.md)
@@ -30,11 +32,13 @@ Throughout the Academy, you will be constantly learning the following techniques
 ### [Week 8-12](curriculum/week_08_12.md)
 
 ## Academy Handbook
+
 ### [Mini Handbook](mini-handbook)
-### [Holiday](mini-handbook/holiday.md)
-### [Expenses](mini-handbook/expenses.md)
-### [Assessments](mini-handbook/assessments.md)
-### [Working Hours](mini-handbook/working_hours.md)
+#### [Holiday](mini-handbook/holiday.md)
+#### [Expenses](mini-handbook/expenses.md)
+#### [Assessments](mini-handbook/assessments.md)
+#### [Working Hours](mini-handbook/working_hours.md)
 
 ## Academy Resources
+
 ### [Academy Conference](conference)
