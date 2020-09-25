@@ -22,7 +22,7 @@ For the first 2 weeks, we will be discussing your learning style and ensuring th
 
 ## Week 3: Academy Engineer Goal Setting
 
-We will work together to set goals and objectives
+We will work together to set goals and objectives for Academy Engineer (SFIA Level 1). We've outlined the following goals, and will support you over the next 5 weeks in achieving them and gathering evidence. 
 
 * Autonomy: Readily asks for help to aid progression
 * Autonomy: Frequently requests and addresses feedback regularly
@@ -35,13 +35,20 @@ We will work together to set goals and objectives
 * Business Skills: Ability to communicate and understand projects and delivery at Made Tech
 * Business Skills: Prepares and delivers showcases and presentations
 
-
 ## Weeks 4 - 7: Academy Engineer SFIA
 
 * We will refine your goals and support you in any areas you need additional support
 * In week 7, we will start setting some goals and objectives for Software Engineer 1
 
 ## Week 7: Software Engineer 1 Goal Setting
+
+We will work together to set goals and objectives for Software Engineer 1 (SFIA Level 2). We've outlined the following goals, and will support you over the next 5 weeks in achieving them and gathering evidence. 
+
+* Autonomy: TBD
+* Influence: TBD
+* Complexity: TBD
+* Knowledge: TBD
+* Business Skills: TBD
 
 ## Weeks 8 - 12: Software Engineer 1 SFIA
 
