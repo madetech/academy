@@ -2,7 +2,7 @@
 
 The Academy Conference runs twice a year, whilst the Academy is running. 
 
-It is a chance for the Academy to showcase their new skills and share their learning with other people, whilst connecting with people from other companies who are on other Academys/Apprenticeships and hear about their experiences. 
+It is a chance for the Academy to showcase their new skills and share their learning with other people, whilst connecting with people from other companies who are on other Academies/Apprenticeships and hear about their experiences. 
 
 ## Academy Conference Agenda
 
