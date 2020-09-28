@@ -44,11 +44,15 @@ We will work together to set goals and objectives for Academy Engineer (SFIA Lev
 
 We will work together to set goals and objectives for Software Engineer 1 (SFIA Level 2). We've outlined the following goals, and will support you over the next 5 weeks in achieving them and gathering evidence. 
 
-* Autonomy: TBD
-* Influence: TBD
-* Complexity: TBD
-* Knowledge: TBD
-* Business Skills: TBD
+* Autonomy: Ability to pair with team members and work independently on project features
+* Autonomy: Asks for and addresses feedback to delivery quality work, proactively addresses knowledge gaps with self learning
+* Influence: Shares technical opinions with team members
+* Influence: Tactfully communicates alternative technical solutions to problems
+* Complexity: Understands the separation of logic when delivering an application (UI, APIs, Business Logic, Database)
+* Knowledge: Has the ability to plan and estimate how they will get up to speed with new technology for a project feature
+* Knowledge: Has an understanding of a range of topics relevant to Made Tech deliveries - see [Academy Curriculum](curriculum)
+* Business Skills: Able to understand the process and communicate effectively during agile ceremonies (planning, scrum / stand ups, review / demo, retrospective)
+* Business Skills: Has a working knowledge of the business domains covered by their location at Made Tech
 
 ## Weeks 8 - 12: Software Engineer 1 SFIA
 
