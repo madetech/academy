@@ -25,7 +25,7 @@ For the first 2 weeks, we will be discussing your learning style and ensuring th
 We will work together to set goals and objectives for Academy Engineer (SFIA Level 1). We've outlined the following goals, and will support you over the next 5 weeks in achieving them and gathering evidence. 
 
 * Autonomy: Readily asks for help to aid progression
-* Autonomy: Frequently requests and addresses feedback regularly
+* Autonomy: Frequently requests and addresses feedback
 * Influence: Actively contributes during pairing and mobbing
 * Influence: Shares opinions on approach to tasks and concepts
 * Complexity: Regularly engages in self learning and research to build on technical skills delivered by the academy
