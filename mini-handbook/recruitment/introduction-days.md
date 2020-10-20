@@ -1,12 +1,3 @@
-
-
-
-
-
-
-
-
-
 # 5. Introduction days
 
 Based on the applicants at this stage, we need to decide which ones to invite to the introduction days based on:
