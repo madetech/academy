@@ -45,7 +45,7 @@ We will work together to set goals and objectives for Academy Engineer (SFIA Lev
 We will work together to set goals and objectives for Software Engineer 1 (SFIA Level 2). We've outlined the following goals, and will support you over the next 5 weeks in achieving them and gathering evidence. 
 
 * Autonomy: Ability to pair with team members and work independently on project features
-* Autonomy: Asks for and addresses feedback to delivery quality work, proactively addresses knowledge gaps with self learning
+* Autonomy: Asks for and addresses feedback to deliver quality work, proactively addresses knowledge gaps with self learning
 * Influence: Shares technical opinions with team members
 * Influence: Tactfully communicates alternative technical solutions to problems
 * Complexity: Understands the separation of logic when delivering an application (UI, APIs, Business Logic, Database)
