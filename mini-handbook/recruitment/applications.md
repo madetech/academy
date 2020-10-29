@@ -36,10 +36,10 @@ We currently use Typeform for the application submissions. Generally, the questi
       - Manchester
       - Bristol
       - [...any other locations]
-   3. What, if any, technologies particularly interest you?
-   4. Describe your favourite thing about building software
-   5. What excites you the most about joining the Academy program?
-   6. What are some of your favourite interests outside of programming? [@TODO - is this still relevant? Shall we remove?]
+   3. What, if any, technologies particularly interest you? / What technologies are you looking forward to learning on the academy?
+   4. Describe your favourite thing about building software / What programming have you done, and what did you most enjoy about it?
+   5. What excites you the most about joining the Academy program? / How will the Academy help you to progress your career?
+   6. What are some of your favourite interests outside of programming? [@TODO - is this still relevant? Shall we remove?] REMOVE
    7. Please upload a copy of your CV
    8. How did you hear about the program?
       - Search Engine
@@ -54,6 +54,11 @@ We currently use Typeform for the application submissions. Generally, the questi
       - Ada College
       - Careers fair
       - Coding Black Females
+      - Manchester Codes
+      - Codehub
+      - North Coders
+      - Code & Stuff
+      - Womens Tech Hub
 
 When the application form is submitted, we use Zapier to automate the population of a row in a matching Airtable database, matching up the questions asked to fields in Airtable. 
 
