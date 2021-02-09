@@ -8,11 +8,11 @@ All the stats you need about the Academy!
 
 ## Breakdown of Academy people year to year
 
-2017 - 2
-2018 - 6
-2019 - 12 (2 cohorts)
-2020 - 12 (1 cohort)
-2021 - 16 starting in March
+- 2017 - 2
+- 2018 - 6
+- 2019 - 12 (2 cohorts)
+- 2020 - 12 (1 cohort)
+- 2021 - 16 starting in March
 
 ## How long is the Academy
 
