@@ -42,3 +42,4 @@ Throughout the Academy, you will be constantly learning the following techniques
 ## Academy Resources
 
 ### [Academy Conference](conference)
+### [Academy Statistics](stats)
