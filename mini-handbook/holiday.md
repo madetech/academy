@@ -10,12 +10,12 @@ Feel free to book holiday for after the 12 week programme once you have successf
 
 ## How much holiday should I book?
 
-If you need to book time off for half a day or more, please book this in CharlieHR and inform your line manager. 
+If you need to book time off for half a day or more, please book this in HiBob and inform your line manager. 
 
 ## Who approves holiday?
 
 * Ask your team members if it's okay with them
 
-* Ensure that the holiday is placed into CharlieHR
+* Ensure that the holiday is placed into HiBob
 
 * Ask your Line Manager / Academy instructor
